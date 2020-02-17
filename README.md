@@ -32,9 +32,11 @@ python3 bootstrap.py abc_estim journal_paper.json configs/config_loria.txt outpu
 
 All the resuslts demonstrated in the arcticle are computed using the Jupyter notebooks in the `journal` directory.
 
+⚠️ NOTE: before executing the Jupyter notebooks, you must decompress `.bz2` files (which encode the posterior distributions).
+
 #### Binomial + Simulated data
 
-All results related to Section 4 "ABC shadow in practice : illustration on synthetic data" were computed in : `setup.ipynd`.
+All results related to Section 4 "ABC shadow in practice : illustration on synthetic data" were computed in : `setup.ipynd` & `binomial_setup.ipynb`.
 
 #### Application
 
