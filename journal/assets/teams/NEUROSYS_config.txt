@@ -1,0 +1,9 @@
+size: 13,23
+theta_0: 0,0,0
+delta: 0.01,0.01,0.01
+seed: 2019
+iter: 1002000
+n: 200
+sampler_it: 500
+y_obs: 43,192,202
+duration: 52666.8
