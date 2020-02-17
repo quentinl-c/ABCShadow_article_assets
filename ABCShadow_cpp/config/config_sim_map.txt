@@ -1,0 +1,4 @@
+seed: 2019
+# Number of iterations of the simulation procedure
+simIter: 10000000
+simBy: 1000

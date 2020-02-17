@@ -1,0 +1,10 @@
+# Random seed
+seed: 2019
+# Number of main iterations for ABC
+iter: 1002000
+# Number of shadow iterations for ABC
+n: 200
+# Number of iterations to sample the auxiliary variable
+samplerIt: 500
+# Bounds of the proposal
+delta: 0.01, 0.01, 0.01
