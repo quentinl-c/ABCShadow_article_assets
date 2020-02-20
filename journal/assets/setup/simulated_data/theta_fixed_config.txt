@@ -1,11 +1,12 @@
 size: 12,8
 theta_0: 0,0,0
-delta: 0.01,0.01,0.01
+delta: 0.005,0.005,0.005
 seed: 2019
 iter: 1002000
 n: 200
 sampler_it: 500
-y_obs: 79.1769,361.796,296.235
-theta_perf: -0.5,0.2,0.3
-obs_sim: 0
-duration: 26187.1
+y_obs: 78.8842,360.732,295.548
+randomMask: 1, 1, 1
+simBy: 1
+simIter: 1200
+thetaPerf: -0.5,0.2,0.3
